@@ -1,0 +1,7 @@
+id = "darkknight"
+name = "Darkknight - Theme"
+version = "0.1.1"
+schema_version = 1
+authors = ["Metwas"]
+description = "Black with a rustic color scheme"
+repository = "https://github.com/Metwas/Darkknight.zed.git"
