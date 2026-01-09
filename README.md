@@ -8,9 +8,6 @@ Minimal absolute dark and rustic theme for the Zed editor
 
 ## Showcase
 
-- All themes available in both **opaque** and **blurred** variants
-- Screenshots using _"JetBrainsMono"_ as font
-
 <table>
    <tr>
     <td align="center" colspan="2">
