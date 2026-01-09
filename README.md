@@ -13,7 +13,7 @@ Minimal absolute dark and rustic theme for the Zed editor
     <td align="center" colspan="2">
       <h3>DarkKnight</h3>
       <div>
-      ![image](./assets/dark_knight_example.png)
+        <img src="./assets/dark_knight_example.png" alt="DarkKnight Theme" width="50%">
         <br />
       </div>
     </td>
