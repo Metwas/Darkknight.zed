@@ -8,6 +8,5 @@
 .DS_Store
 
 ### misc ###
-/assets
 /bin
 nightfox-nvim
