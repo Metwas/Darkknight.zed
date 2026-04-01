@@ -18,6 +18,15 @@ Minimal absolute dark and rustic theme for the Zed editor
       </div>
     </td>
   </tr>
+  <tr>
+   <td align="center" colspan="2">
+     <h3>DarkKnight Blur</h3>
+     <div>
+       <img src="./assets/example-image-2.jpg" alt="DarkKnight Blur Theme" width="80%">
+       <br />
+     </div>
+   </td>
+ </tr>
 </table>
 
 ---
