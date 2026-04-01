@@ -248,7 +248,7 @@
                             "editor.active_line_number": "#08bdbaDD",
                             "editor.active_wrap_guide": "#000000DD",
                             "editor.background": "#00000000",
-                            "editor.document_highlight.bracket_background": "#000000DD",
+                            "editor.document_highlight.bracket_background": "#00000022",
                             "editor.foreground": "#f2f4f8",
                             "editor.gutter.background": "#00000000",
                             "editor.indent_guide": "#050505DD",
